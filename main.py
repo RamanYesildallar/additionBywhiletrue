@@ -17,5 +17,5 @@ def adDition():
             break
 
 
-# For using code using function
+# For using code use this function
 adDition()
